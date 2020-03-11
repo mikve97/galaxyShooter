@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A095171F-4CDD-C69D-C4CF-28F4D0FD84F5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="23" Column="80" />
+      <File FileName="Assets/Scripts/FauxGravityBody.cs" />
+      <File FileName="Assets/Scripts/FauxGravityAttractor.cs" />
+      <File FileName="Assets/Scripts/CameraMovement.cs" Line="10" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Galaxy shooter" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CameraMovement.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="442c9e50-c071-424d-b599-263008a3fb8c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
